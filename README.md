@@ -27,9 +27,9 @@ To maintain a high standard of quality and consistency, we have established the 
 
 ## Repository Structure
 
-The CppHub repository is structured as follows:
+The LibHub repository is structured as follows:
 
-/
+```
 |-- Library1/
 |   |-- library1.cpp
 |   |-- library1.h
@@ -42,6 +42,8 @@ The CppHub repository is structured as follows:
 |-- CONTRIBUTING.md
 |-- LICENSE
 |-- README.md
+
+```
 
 Please add your library code to the appropriate directory along with a README.md file that provides documentation and usage instructions for your library.
 
